@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  background: linear-gradient( #ffc09c 0%, #ffac9c 100%);
+  background-repeat: no-repeat;
+}
+
+#name{
+  text-shadow: 2px 2px #ff584a;
+  font-size: 30px;
+}
+
+#bio{
+  padding: 20px;
+  font-size: 18px;
+  text-align: center;
+}
+
+#book{
+  border-radius: 50%;
+  width: 500px;
+  
+}
+#paragraph{
+  font-size: 18px;
+}
+
+.line {
+    height: 6px;
+    background-color: salmon;
+    width: 70px;
+    margin: 8px auto;
+}
